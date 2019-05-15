@@ -1,3 +1,11 @@
+## React/Apollo Demo app.
+
+This project is my work through the following demo/tutorial for graphql:
+
+[React/Apollo](https://www.howtographql.com/react-apollo)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
